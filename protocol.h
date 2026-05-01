@@ -32,8 +32,8 @@
 
 /* ── parsed message structure ── */
 typedef struct {
-    char code[4];           /* e.g. "MSG" */
-    char fields[8][512];    /* up to 8 fields, each up to 511 chars */
+    char code[4];          
+    char fields[8][512];   
     int  nfields;
 } Message;
 
