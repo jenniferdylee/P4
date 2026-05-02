@@ -1,4 +1,4 @@
-Jennifer Lee(dl1317)
+Jennifer Lee(dl1317) Siddhart Sathya(ss4294)
 
 Test Plan
 ----------------------
